@@ -17,7 +17,8 @@ body{
 .container{
     width:90%;
     height:90%;
-    display: flex;
+    /* display: flex; */
+    display: block;
     justify-content: space-around;
     align-items: center;
 }
